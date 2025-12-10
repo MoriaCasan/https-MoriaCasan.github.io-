@@ -59,9 +59,9 @@ header .container {
     align-items: center;
 }
 
-/* ESTILO DEL LOGO DE CABECERA (logo-barrese.png) */
+/* ESTILO DEL LOGO DE CABECERA (logo-barrese2.png) */
 .header-logo {
-    height: 35px; 
+    height: 45px; 
     width: auto;
     vertical-align: middle;
 }
@@ -489,6 +489,7 @@ footer {
     }
 
 }
+
 
 
 
