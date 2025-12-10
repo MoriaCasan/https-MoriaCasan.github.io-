@@ -35,7 +35,7 @@ body {
 }
 
 a {
-    color: var(--secondary-color);
+    color: var(--tertiary-color);
     text-decoration: none;
     transition: 0.3s;
 }
@@ -46,7 +46,7 @@ a {
 header {
     background: var(--white); 
     border-bottom: 1px solid #eee;
-    color: var(--tertiary-color);
+    color: var(--primary-color);
     padding: 1rem 0;
     position: sticky;
     top: 0;
@@ -489,4 +489,5 @@ footer {
     }
 
 }
+
 
