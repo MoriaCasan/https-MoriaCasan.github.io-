@@ -1,7 +1,7 @@
 :root {
     --primary-color: #1a1a1a;    /* Negro/Gris oscuro para títulos */
     --secondary-color: #007bff;  /* Azul profesional para acentos y números */
-    --tertiary-color:#ff7800;
+    --tertiary-color: #ff7800;
     --text-color: #333;
     --background-light: #f9f9f9; /* Fondo gris muy claro */
     --white: #ffffff;
@@ -489,5 +489,6 @@ footer {
     }
 
 }
+
 
 
