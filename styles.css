@@ -129,7 +129,7 @@ section h2, section h3 {
 /* Título de sección con prefijo 'I' (usado en Portafolio/Clientes) */
 section h3::before {
     content: "I"; 
-    color: var(--secondary-color);
+    color: var(--tertiary-color);
     margin-right: 10px;
 }
 
@@ -489,3 +489,4 @@ footer {
     }
 
 }
+
