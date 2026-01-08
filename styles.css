@@ -433,7 +433,7 @@ footer {
 }
 .submit-button { 
     background-color: #d11a2a; 
-    color: white; 
+    color: #1a48d1;
     border: none; 
     padding: 12px 45px; 
     font-weight: bold;
@@ -540,5 +540,6 @@ footer {
     }
 
 }
+
 
 
